@@ -45,6 +45,9 @@ dict = {
      TOOLS : DUMUSER_MANUAL-INSTAGRAM
 
 	>>>  EXIT USE : CTRL + C + ENTER  <<<
+''',     
+	"Draw2" : '''
+	  、[ CHECK ID INSTAGRAM ]
 ''',
 	"Draw3" : '''
 		、[ Internet connection required ]
