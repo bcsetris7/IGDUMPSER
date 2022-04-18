@@ -46,9 +46,6 @@ dict = {
 
 	>>>  EXIT USE : CTRL + C + ENTER  <<<
 ''',     
-	"Draw2" : '''
-	  、[ CHECK ID INSTAGRAM ]
-''',
 	"Draw3" : '''
 		、[ Internet connection required ]
 
@@ -90,7 +87,6 @@ def FalseMain():
 
 def Banner():
     Flush(dict["Draw"], Y, W, 0.03, 0)
-    Flush(dict["Draw2"], LB, W, 0.03, 0)
     Flush(dict["Draw3"], B, W, 0.03, 0)
 
 def Screen():
